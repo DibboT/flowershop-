@@ -61,7 +61,7 @@
 }
 
 .banner-photo{
-    background-image: url("/images/pngwing10.png");
+    background-image: url("/flowershop-/images/pngwing10.png");
     background-size: cover;
     width: 535px;
     height: 700px;
@@ -213,12 +213,12 @@
 }
 
 .finest-flower1{
-    background-image: url("/images/finest1.jpg");
+    background-image: url("/flowershop-/images/finest1.jpg");
 
 }
 
 .deals-flower-container{
-    background-image: url("/images/offerimage.png");
+    background-image: url("/flowershop-/images/offerimage.png");
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 50px;
@@ -252,7 +252,7 @@
 }
 
 .image1{
-    background-image: url("/images/flower1.png");
+    background-image: url("/flowershop-/images/flower1.png");
     background-repeat: no-repeat;
     background-position: cover;
     width: 342px;
@@ -263,7 +263,7 @@
 }
 
 .image2{
-    background-image: url("/images/flower2.png");
+    background-image: url("/flowershop-/images/flower2.png");
     background-repeat: no-repeat;
     background-position: cover;
     width: 342px;
@@ -272,7 +272,7 @@
 }
 
 .image3{
-    background-image: url("/images/flower3.png");
+    background-image: url("/flowershop-/images/flower3.png");
     background-repeat: no-repeat;
     background-position: cover;
     width: 342px;
@@ -281,7 +281,7 @@
 }
 
 .image4{
-        background-image: url("/images/flower4.png");
+        background-image: url("/flowershop-/images/flower4.png");
         background-repeat: no-repeat;
         background-position: cover;
         width: 342px;
@@ -293,7 +293,7 @@
 
 .deals-container{
     width: 1240px;
-    background-image: url("/images/dealsbg.png");
+    background-image: url("/flowershop-/images/dealsbg.png");
     background-color: lightgray 0px -203.444px / 100% 213.755%;
     background-position: center;
     background-repeat: no-repeat;
