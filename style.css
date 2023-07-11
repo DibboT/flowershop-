@@ -204,6 +204,19 @@
     
 }
 
+
+/* Finest Collection Container Styles */
+
+.finest-collection{
+    
+    background-color: antiquewhite;
+}
+
+.finest-flower1{
+    background-image: url("/images/finest1.jpg");
+
+}
+
 .deals-flower-container{
     background-image: url("/images/offerimage.png");
     background-size: cover;
